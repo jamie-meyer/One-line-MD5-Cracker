@@ -1,4 +1,4 @@
-#OneLineMD5Cracker
+# One-line MD5 Cracker
 
 04/27/2018
 
